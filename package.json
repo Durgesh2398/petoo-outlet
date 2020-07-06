@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "media": "^0.2.1",
     "react": "^16.13.1",
+    "react-bootstrap-navbar": "^1.1.0",
     "react-dom": "^16.13.1",
     "react-navbar": "^3.0.0",
     "react-scripts": "3.4.1",

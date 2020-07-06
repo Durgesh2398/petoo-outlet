@@ -7,7 +7,7 @@ class Header extends Component {
     <React.Fragment>
       <Navbar dark color="primary">
           <div className="container">
-            <NavbarBrand>Peeto Outlet</NavbarBrand>
+            <NavbarBrand><h1><b>Peeto Outlet</b></h1></NavbarBrand>
           </div>
       </Navbar>
     </React.Fragment>
